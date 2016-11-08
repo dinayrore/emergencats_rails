@@ -54,7 +54,7 @@ Once you have completed the above installation processes your system is ready to
 Please complete the following procedure to run the program on a live system:
   1. Open Terminal.
   2. Change your directory to the one that which you would like to save this project. `$ cd folder_name`
-  3. Then run the command `$ git clone https://github.com/kteich88/emergencats_rails.git` and `$ cd emergencats_rails`
+  3. Then run the commands `$ git clone https://github.com/kteich88/emergencats_rails.git` and `$ cd emergencats_rails`
   4. Run `$ bundle install` to install needed gems located in the Gemfile.
   5. First, create the database: `rails db:create`
   6. Next, migrate the database: `rails db:migrate`
@@ -68,6 +68,7 @@ Please complete the following procedure to run the program on a live system:
 ## Built With
 
 * Atom
+* Postgresql
 
 ## Authors
 
