@@ -1,4 +1,4 @@
-# Emergencats
+# Emergencats on Rails!
 
 When you need a cat right meow, visit the Heroku link: 
 
@@ -59,9 +59,11 @@ Please complete the following procedure to run the program on a live system:
   5. First, create the database: `rails db:create`
   6. Next, migrate the database: `rails db:migrate`
   7. Finally, run the test suite to verify that everything is working correctly: `$ rails test`
-  8. If the test suite passes, you'll be ready to run the app in a local server: `$ rails server`
-  9. You should see `Rails 5.0.0.1 application starting in development on http://localhost:3000` in your Terminal.
-  10. Go to localhost:3000 in your web browser to view the application homepage.
+  
+## Running Web app locally
+  1. If the test suite passes, you'll be ready to run the app in a local server: `$ rails server`
+  2. You should see `Rails 5.0.0.1 application starting in development on http://localhost:3000` in your Terminal.
+  3. Go to localhost:3000 in your web browser to view the application homepage.
 
 ## Built With
 
